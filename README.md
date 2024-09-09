@@ -1,10 +1,9 @@
 ![Header](https://github.com/Afkeomre/Afkeomre/blob/main/assets/logo-black.png)
 
-# <h1 align="center">Hello, everyone 👋 </h1>
+<h1 align="center"> Hello, everyone 👋</h1>
 
 ## 👩‍💼 About me
-🔭 My name is Irina. I am a beginner frontend developer 💻
-I made a few websites as my pet projects. Currently I really want to find a job to work with a team and get commercial experience 💪
+🔭 My name is Irina. I am a beginner frontend developer 💻 I made a few websites as my pet projects. Currently I really want to find a job to work with a team and get commercial experience 💪
 
 💡 I like to develop a website from scratch to a full-fledged and efficient product.
 
