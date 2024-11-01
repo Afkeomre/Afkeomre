@@ -34,6 +34,7 @@
 ## 💬 Socials
 [![Telegram](https://img.shields.io/badge/Telegram-44505c?style=for-the-badge&logo=Telegram)](https://t.me/afkeomre)
 [![GitHub](https://img.shields.io/badge/GitHub-44505c?style=for-the-badge&logo=GitHub)](https://github.com/Afkeomre)
+[![Codepen](https://img.shields.io/badge/Codepen-44505c?style=for-the-badge&logo=Codepen)](https://codepen.io/Afkeomre)
 
 ## ⚙️ GitHub analytics
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Afkeomre&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
