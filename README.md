@@ -7,7 +7,7 @@
 * 🌍  I'm based in Kazan, Russia.
 * ✉️  You can contact me at [ivoronkova538@yandex.ru](mailto:ivoronkova538@yandex.ru).
 * 💡 I'm really passionate about the process of creating websites. I like the HTML layout and the site's subsequent transformation into a full-fledged and efficient product.
-* 🚀  I'm currently working on [MelanishPhotosApp](http://melanish-liart.vercel.app).
+* 🚀  I'm currently working on [Favorite Movies App](https://favorite-movies-pi.vercel.app).
 * 🧠  I'm currently learning the animation features and a framework Vue.js.
 * 🤝  I'm open to collaborating on any project that can help me to improve my skills.
 
