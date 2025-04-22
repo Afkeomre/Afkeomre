@@ -25,7 +25,7 @@
 ![Webpack](https://img.shields.io/badge/Webpack-44505c?style=for-the-badge&logo=Webpack)
 ![Gulp](https://img.shields.io/badge/Gulp-44505c?style=for-the-badge&logo=Gulp)
 ![Vue.js](https://img.shields.io/badge/Vue.js-44505c?style=for-the-badge&logo=Vue.js)
-![Pinia](https://img.shields.io/badge/Pinia-44505c?style=for-the-badge&logo=Pinia)
+![Pinia](https://img.shields.io/badge/Pinia-44505c?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Vite-44505c?style=for-the-badge&logo=Vite)
 ![Git](https://img.shields.io/badge/Git-44505c?style=for-the-badge&logo=Git)
 ![GitHub](https://img.shields.io/badge/GitHub-44505c?style=for-the-badge&logo=GitHub)
