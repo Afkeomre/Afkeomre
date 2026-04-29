@@ -60,9 +60,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-44505c?style=for-the-badge&logo=GitHub)](https://github.com/Afkeomre)
 [![Codepen](https://img.shields.io/badge/Codepen-44505c?style=for-the-badge&logo=Codepen)](https://codepen.io/Afkeomre)
 
-## ⚙️ GitHub-аналитика
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Afkeomre&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 📈 Статистика и активность
+[![codewars](https://www.codewars.com/users/Afkeomre/badges/large)](https://www.codewars.com/users/Afkeomre)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Afkeomre&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Afkeomre&stroke=ffffff&background=1a1b27&ring=6fa4fc&fire=6fa4fc&currStreakNum=ffffff&currStreakLabel=6fa4fc&sideNums=34aea1&sideLabels=34aea1&dates=ffffff&hide_border=false)](http://www.github.com/Afkeomre)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afkeomre&layout=donut-vertical&theme=tokyonight" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Afkeomre&show_icons=true&theme=tokyonight" /><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afkeomre&stroke=ffffff&background=1a1b27&ring=6fa4fc&fire=6fa4fc&currStreakNum=ffffff&currStreakLabel=6fa4fc&sideNums=34aea1&sideLabels=34aea1&dates=ffffff&hide_border=false" />
+    </td>
+  </tr>
+</table>
