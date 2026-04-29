@@ -7,8 +7,10 @@
 * 🌍  Сейчас я живу в Казани.
 * ✉️  Вы можете связаться со мной по почте [ivoronkova538@yandex.ru](mailto:ivoronkova538@yandex.ru).
 * 💡  Я по-настоящему увлечена процессом создания веб-сайтов. Мне нравится наблюдать, как пустая страница постепенно превращается в полноценный и эффективный продукт, и быть непосредственным участником этой трансформации.
-* 🧠  В данный момент я изучаю возможности использования TypeScript внутри библиотеки React.
+* 📚 Мое обучение началось с тренажеров [HTML Academy](https://htmlacademy.ru/). Далее последовал [курс Result University](https://www.youtube.com/watch?v=1rRD9uMF92o&t=49693s) по **Vue 3**, а затем мое внимание привлекла библиотека **React**. 
+* 🧠  В данный момент я изучаю возможности использования **TypeScript** внутри **React**.
 * 🚀  Практические навыки развиваю при разработке приложения [Todos React TS](https://todos-react-ts-navy.vercel.app/).
+* 🤖  Активно использую в разработке AI-помощников: с появлением **ChatGPT** процесс обучения стал быстрее и появилась уверенность в том, что практически любую проблему можно решить.
 * 🤝  Я открыта к любому сотрудничеству, которое поможет мне усовершенствовать проекты или приобрести новый опыт в разработке.
 
 ## 🛠 Технологии и инструменты
@@ -69,7 +71,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afkeomre&layout=donut-vertical&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Afkeomre&show_icons=true&theme=tokyonight" /><br>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afkeomre&theme=tokyo-night" width="500" /><br>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Afkeomre&stroke=ffffff&background=1a1b27&ring=6fa4fc&fire=6fa4fc&currStreakNum=ffffff&currStreakLabel=6fa4fc&sideNums=34aea1&sideLabels=34aea1&dates=ffffff&hide_border=false" />
     </td>
   </tr>
