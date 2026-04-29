@@ -51,6 +51,7 @@
 
 ### 🤖 AI
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-44505c?style=for-the-badge&logo=ChatGPT)
+![MistralAI](https://img.shields.io/badge/mistralai-44505c?style=for-the-badge&logo=mistralai&logoColor=white)
 ![GitHubCopilot](https://img.shields.io/badge/GitHub%20Copilot-44505c?style=for-the-badge&logo=githubcopilot)
 
 ### 📂 Среда разработки
