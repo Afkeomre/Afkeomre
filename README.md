@@ -43,6 +43,8 @@
 ### 🌐 API и базы данных
 ![Axios](https://img.shields.io/badge/Axios-44505c?style=for-the-badge&logo=Axios)
 ![Firebase](https://img.shields.io/badge/Firebase-44505c?style=for-the-badge&logo=Firebase)
+![Supabase](https://img.shields.io/badge/Supabase-44505c?style=for-the-badge&logo=Supabase)
+![TheMovieDatabase](https://img.shields.io/badge/The%20Movie%20Database-44505c?style=for-the-badge&logo=themoviedatabase)
 
 ### 🔀 Контроль версий и хостинг
 ![Git](https://img.shields.io/badge/Git-44505c?style=for-the-badge&logo=Git)
