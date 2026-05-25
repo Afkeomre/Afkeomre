@@ -14,50 +14,83 @@
 * 🤝  Я открыта к любому сотрудничеству, которое поможет мне усовершенствовать проекты или приобрести новый опыт в разработке.
 
 ## 🛠 Технологии и инструменты
+<table>
+  <tr>
+    <td valign="top"><strong>Верстка и стили</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML-44505c?style=for-the-badge&logo=HTML5&logoColor=A52A2A" />
+      <img src="https://img.shields.io/badge/CSS-44505c?style=for-the-badge&logo=CSS" />
+      <img src="https://img.shields.io/badge/SASS-44505c?style=for-the-badge&logo=SASS" />
+      <img src="https://img.shields.io/badge/TailwindCSS-44505c?style=for-the-badge&logo=TailwindCSS" />
+      <img src="https://img.shields.io/badge/Bootstrap-44505c?style=for-the-badge&logo=Bootstrap" />
+      <img src="https://img.shields.io/badge/GSAP-44505c?style=for-the-badge&logo=GSAP" />
+    </td>
+  </tr>
 
-### ✨Верстка и стили
-![HTML](https://img.shields.io/badge/HTML-44505c?style=for-the-badge&logo=HTML5&logoColor=A52A2A)
-![CSS](https://img.shields.io/badge/CSS-44505c?style=for-the-badge&logo=CSS)
-![SASS](https://img.shields.io/badge/SASS-44505c?style=for-the-badge&logo=SASS)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-44505c?style=for-the-badge&logo=TailwindCSS)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-44505c?style=for-the-badge&logo=Bootstrap)
-![GSAP](https://img.shields.io/badge/GSAP-44505c?style=for-the-badge&logo=GSAP)
+  <tr>
+    <td valign="top"><strong>Языки программирования</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/JavaScript-44505c?style=for-the-badge&logo=JavaScript" />
+      <img src="https://img.shields.io/badge/TypeScript-44505c?style=for-the-badge&logo=TypeScript" />
+    </td>
+  </tr>
 
-### 👨‍💻 Языки программирования
-![JavaScript](https://img.shields.io/badge/JavaScript-44505c?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/TypeScript-44505c?style=for-the-badge&logo=TypeScript)
+  <tr>
+    <td valign="top"><strong>Фреймворки и библиотеки</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vue.js-44505c?style=for-the-badge&logo=Vue.js" />
+      <img src="https://img.shields.io/badge/Vue%20Router-44505c?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Pinia-44505c?style=for-the-badge&logo=Pinia" />
+      <img src="https://img.shields.io/badge/React-44505c?style=for-the-badge&logo=React" />
+      <img src="https://img.shields.io/badge/React%20Router-44505c?style=for-the-badge&logo=reactrouter" />
+      <img src="https://img.shields.io/badge/Redux%20Toolkit-44505c?style=for-the-badge" />
+    </td>
+  </tr>
 
-### 🖥️ Фреймворки и библиотеки
-![Vue.js](https://img.shields.io/badge/Vue.js-44505c?style=for-the-badge&logo=Vue.js)
-![VueRouter](https://img.shields.io/badge/Vue%20Router-44505c?style=for-the-badge)
-![Pinia](https://img.shields.io/badge/Pinia-44505c?style=for-the-badge&logo=Pinia)
-![React](https://img.shields.io/badge/React-44505c?style=for-the-badge&logo=React)
-![ReactRouter](https://img.shields.io/badge/React%20Router-44505c?style=for-the-badge&logo=reactrouter)
-![ReduxToolkit](https://img.shields.io/badge/Redux%20Toolkit-44505c?style=for-the-badge)
+  <tr>
+    <td valign="top"><strong>Сборка</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vite-44505c?style=for-the-badge&logo=Vite" />
+      <img src="https://img.shields.io/badge/Webpack-44505c?style=for-the-badge&logo=Webpack" />
+      <img src="https://img.shields.io/badge/Gulp-44505c?style=for-the-badge&logo=Gulp" />
+    </td>
+  </tr>
 
-### ⚙️Сборка
-![Webpack](https://img.shields.io/badge/Webpack-44505c?style=for-the-badge&logo=Webpack)
-![Gulp](https://img.shields.io/badge/Gulp-44505c?style=for-the-badge&logo=Gulp)
-![Vite](https://img.shields.io/badge/Vite-44505c?style=for-the-badge&logo=Vite)
+  <tr>
+    <td valign="top"><strong>API и базы данных</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Axios-44505c?style=for-the-badge&logo=Axios" />
+      <img src="https://img.shields.io/badge/Firebase-44505c?style=for-the-badge&logo=Firebase" />
+      <img src="https://img.shields.io/badge/Supabase-44505c?style=for-the-badge&logo=Supabase" />
+      <img src="https://img.shields.io/badge/TMDb-44505c?style=for-the-badge&logo=themoviedatabase" />
+    </td>
+  </tr>
 
-### 🌐 API и базы данных
-![Axios](https://img.shields.io/badge/Axios-44505c?style=for-the-badge&logo=Axios)
-![Firebase](https://img.shields.io/badge/Firebase-44505c?style=for-the-badge&logo=Firebase)
-![Supabase](https://img.shields.io/badge/Supabase-44505c?style=for-the-badge&logo=Supabase)
-![TheMovieDatabase](https://img.shields.io/badge/The%20Movie%20Database-44505c?style=for-the-badge&logo=themoviedatabase)
+  <tr>
+    <td valign="top"><strong>Контроль версий и хостинг</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-44505c?style=for-the-badge&logo=Git" />
+      <img src="https://img.shields.io/badge/GitHub-44505c?style=for-the-badge&logo=GitHub" />
+      <img src="https://img.shields.io/badge/Vercel-44505c?style=for-the-badge&logo=Vercel" />
+    </td>
+  </tr>
 
-### 🔀 Контроль версий и хостинг
-![Git](https://img.shields.io/badge/Git-44505c?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/GitHub-44505c?style=for-the-badge&logo=GitHub)
-![Vercel](https://img.shields.io/badge/Vercel-44505c?style=for-the-badge&logo=Vercel)
+  <tr>
+    <td valign="top"><strong>AI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/ChatGPT-44505c?style=for-the-badge&logo=ChatGPT" />
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-44505c?style=for-the-badge&logo=githubcopilot" />
+      <img src="https://img.shields.io/badge/MistralAI-44505c?style=for-the-badge&logo=mistralai&logoColor=white" />
+    </td>
+  </tr>
 
-### 🤖 AI
-![ChatGPT](https://img.shields.io/badge/ChatGPT-44505c?style=for-the-badge&logo=ChatGPT)
-![MistralAI](https://img.shields.io/badge/mistralai-44505c?style=for-the-badge&logo=mistralai&logoColor=white)
-![GitHubCopilot](https://img.shields.io/badge/GitHub%20Copilot-44505c?style=for-the-badge&logo=githubcopilot)
-
-### 📂 Среда разработки
-![VSCode](https://img.shields.io/badge/VSCode-44505c?style=for-the-badge)
+  <tr>
+    <td valign="top"><strong>Среда разработки</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/VSCode-44505c?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ## 💬 Соцсети
 [![Telegram](https://img.shields.io/badge/Telegram-44505c?style=for-the-badge&logo=Telegram)](https://t.me/afkeomre)
@@ -70,7 +103,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afkeomre&layout=donut-vertical&theme=tokyonight" />
+      <img src="https://github-readme-stats-nine-vert-77.vercel.app/api/top-langs?username=Afkeomre&layout=donut-vertical&theme=tokyonight&langs_count=6" />
     </td>
     <td>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Afkeomre&theme=tokyo-night" width="500" /><br>
