@@ -76,8 +76,9 @@
     <td valign="top"><strong>AI</strong></td>
     <td>
       <img src="https://img.shields.io/badge/ChatGPT-44505c?style=for-the-badge&logo=ChatGPT" />
-      <img src="https://img.shields.io/badge/GitHub%20Copilot-44505c?style=for-the-badge&logo=githubcopilot" />
+      <img src="https://img.shields.io/badge/Claude-44505c?style=for-the-badge&logo=Claude" />
       <img src="https://img.shields.io/badge/MistralAI-44505c?style=for-the-badge&logo=mistralai&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-44505c?style=for-the-badge&logo=githubcopilot" />
     </td>
   </tr>
 
